@@ -1,7 +1,5 @@
-let myNumber=0.0987;
+let myNumber=0.0989;
 console.log(typeof myNumber);
-if (false) 
-{console.log('This is not a number!');}
 
 if (myNumber%3==0)
 {console.log('Gen');}
